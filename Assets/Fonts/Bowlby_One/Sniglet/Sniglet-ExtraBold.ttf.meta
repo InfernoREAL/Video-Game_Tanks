@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7953b99e04e551a43a6cf78e2597d242
+timeCreated: 1553548093
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sniglet
+  fontNames:
+  - Sniglet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 041e358db9acd6f4bb2543f3272468fb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
